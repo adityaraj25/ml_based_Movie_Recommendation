@@ -37,7 +37,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/movie-recommendation-system.git
+git clone https://github.com/adityaraj25/ml_based_Movie_Recommendation.git
 cd movie-recommendation-system
 Create a virtual environment (optional but recommended):
 
